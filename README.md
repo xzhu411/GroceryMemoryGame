@@ -11,8 +11,6 @@ check this WalkThrough video on YouTube
 
 This project uses several third-party assets to build the grocery store environment and enhance the VR interaction experience:
 
-## External Assets Used
-
 - [Grocery Store – Interior and Props](https://assetstore.unity.com/packages/3d/props/interior/grocery-store-interior-and-props-142966))(3D models, shelves, decorations)
 - [Fruit & Vegetable Pack](https://assetstore.unity.com/packages/3d/props/food/match-3d-object-pack-fruits-vegetables-284706))(market-style produce models)
 - [Fresh_Raystore Assets](https://assetstore.unity.com/packages/3d/props/furniture/fresh-shelving-267101))(food items and props)

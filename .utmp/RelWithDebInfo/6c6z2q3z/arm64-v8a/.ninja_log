@@ -1,0 +1,10 @@
+# ninja log v5
+1	892	1763656897870702613	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	46d681b8427f32a5
+0	908	1763656897889373212	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e5f90150269537de
+0	921	1763656897902927029	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	36c7efd06a417a59
+1	929	1763656897911065145	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4e9ad3766ed2f706
+0	972	1763656897954011588	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	427fe83b2177cbdd
+1	1013	1763656897995128214	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	527e69a8f762a184
+1	1132	1763656898114517953	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d45f66c019b4054e
+0	1220	1763656898202790165	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	34779a5b597ae1ae
+1220	1347	1763656898329693635	/Users/zhuxiaoai/kitchenGrocery_VR/GroceryKitchen/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6c6z2q3z/obj/arm64-v8a/libgame.so	fd3049bc15108d09
